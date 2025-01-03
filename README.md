@@ -6,4 +6,5 @@ The file can be downloaded in [LDR_PIR_Kamar_Mandi_Millis.ino](https://github.co
 
 ## Diagram
 Follow this diagram to print the electrical circuit on your PCB program.
+
 ![alt text](https://github.com/setiawanph/No-Touch-System-with-Millis/blob/main/Electrical_Diagram.png?raw=true)
