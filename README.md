@@ -6,9 +6,9 @@ This repository contains the diagram and the codes to create simple no-touch con
 1. PIR Sensor
 2. 5V Solid State Relay module
 3. NodeMCU-ESP8266
-4. Red LED (for indicator)
+4. 5V LED (green-colored, for indicator)
 5. Resistor 220Ohm
-6. 220V LED Lamp
+6. 220V LED Lamp (red-colored)
 
 ### Software
 1. Arduino IDE: The environment for sketching the code of no-touch system
