@@ -20,3 +20,7 @@ The file can be downloaded in [LDR_PIR_Kamar_Mandi_Millis.ino](https://github.co
 Follow this diagram to print the electrical circuit on your PCB program.
 
 ![alt text](https://github.com/setiawanph/No-Touch-System-with-Millis/blob/main/Sketch%20PIR%20Lamp.png?raw=true)
+
+List of connection is described as follow
+
+![alt text](https://github.com/setiawanph/No-Touch-System-with-Millis/blob/main/Screenshot%202025-01-10%20112101.png?raw=true)
